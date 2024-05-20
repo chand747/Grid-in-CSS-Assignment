@@ -1,0 +1,4 @@
+Explain the difference between justify-items and justify-self using code examples?
+Solution:-
+The justify-items property is a sub-property of the CSS Box Alignment Module which basically controls the alignment of grid items within their scope.
+The justify-self property is used to specify the alignment of a content's position along with the appropriate axis in a CSS Grid.
